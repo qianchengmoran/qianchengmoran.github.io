@@ -1,3 +1,10 @@
+/*！
+ * 仙尘 Cursor.js
+ * - 90 年代游标集合
+ * -- https://github.com/tholman/90s-cursor-effects
+ * -- http://codepen.io/tholman/full/jWmZxZ/
+ */
+
 //鼠标点击雪花特效
 (函数fairyDustCursor() {
   
